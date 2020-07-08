@@ -11,7 +11,9 @@ eg1：
 
 www.baidu.com
 
-![image-20200706163852253](C:\Users\zhaoxh\Documents\xiaohu\VS\CTreeCtrl\csdn.png)
+![image1](https://github.com/Xiao-Hu-Z/parseUrlGenerationTagTree/blob/master/baidu.png)
+
+
 
 
 
@@ -19,7 +21,9 @@ eg2：
 
 http://www.csdn.net/
 
-![image-20200708132658198](C:\Users\zhaoxh\AppData\Roaming\Typora\typora-user-images\image-20200708132658198.png)
+![image1](https://github.com/Xiao-Hu-Z/parseUrlGenerationTagTree/blob/master/csdn.png)
+
+
 
 
 
@@ -32,6 +36,7 @@ http://www.csdn.net/
 步骤到github
 
 ```
+git init
 git add .
 git commit -m "first commit"
 git remote add origin https://github.com/Xiao-Hu-Z/parseUrlGenerationTagTree.git
